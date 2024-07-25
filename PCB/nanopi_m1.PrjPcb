@@ -66,6 +66,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LGZMULQD
 
+[Document2]
+DocumentPath=Schlib1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KVFYVOPI
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -809,8 +826,6 @@ Type133=1
 Type134=1
 Type135=1
 Type136=1
-Type137=1
-Type138=1
 
 [Difference Levels]
 Type1=1
@@ -1040,8 +1055,6 @@ Type148=2
 Type149=2
 Type150=2
 Type151=2
-Type152=1
-Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
